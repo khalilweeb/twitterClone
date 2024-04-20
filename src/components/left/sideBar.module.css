@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+.icon {
+    color: white;
+    font-size: 30px;
+}
+
+.items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 200px;
+}
+
+.nav {
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+}
