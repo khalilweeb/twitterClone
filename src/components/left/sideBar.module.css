@@ -1,16 +1,20 @@
 *{
     color: white;
 }
-.icon {
+.logo {
     color: white;
-    font-size: 30px;
-}
+    font-size: 40px;
+    margin: 10px;}
 
 .items {
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
-    width: 200px;
+   
+}
+.icon {
+    font-size: 30px;
+    margin: 10px;
 }
 
 .nav {
